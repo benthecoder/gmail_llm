@@ -58,6 +58,7 @@ see an example in [summary](summary/2023-12-04.md) folder
 - [ ] improve prompt to extract as many links as possible and have better categorization
 - [ ] Experiment with different forms of output, maybe article form? Have it copy someone's writing style, publish it to substack, could be a newsletter automation with AI thing
 - [ ] Check if text extracted from emails can be cleaned up, any redundant info fed into prompt?
+- [ ] Run this on cloud/local and dump results in DB so I can read into my blog or in notion
 
 ## Links
 
