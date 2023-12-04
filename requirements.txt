@@ -1,0 +1,8 @@
+emoji==2.8.0
+google_api_python_client==2.109.0
+google_auth_oauthlib==1.0.0
+openai==0.27.8
+protobuf==4.25.1
+python-dotenv==1.0.0
+tenacity==8.2.2
+tiktoken==0.3.3
