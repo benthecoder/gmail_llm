@@ -1,10 +1,18 @@
 # Gmail LLM
 
+![cover](/images/cover.png)
+
 Using GPT4 to extract interesting links from my daily newsletters
 
 **Why?** I spend too much time opening and checking through all my newsletters subscriptions, would rather have all interesting links in one page.
 
 Inspired by [isafulf/inbox_cleaner](https://github.com/isafulf/inbox_cleaner)
+
+## Images
+
+![cli](/images/cli.png)
+
+![email sample](/images/email.png)
 
 ## Prerequisites
 
